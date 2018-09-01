@@ -1,94 +1,64 @@
 {
 "contoh":
 [{
+  "mobil": "Toyota",
+  "tahun": 2005
+}, {
+  "mobil": "Toyota",
+  "tahun": 2005
+}, {
   "mobil": "Mercury",
-  "tahun": 1991
-}, {
-  "mobil": "Saab",
-  "tahun": 1989
-}, {
-  "mobil": "Chevrolet",
-  "tahun": 2004
-}, {
-  "mobil": "Ford",
-  "tahun": 1986
-}, {
-  "mobil": "Mazda",
-  "tahun": 2012
+  "tahun": 1999
 }, {
   "mobil": "Honda",
-  "tahun": 1988
-}, {
-  "mobil": "Buick",
-  "tahun": 2004
-}, {
-  "mobil": "Volkswagen",
-  "tahun": 2009
-}, {
-  "mobil": "Jeep",
-  "tahun": 2009
-}, {
-  "mobil": "GMC",
-  "tahun": 2005
+  "tahun": 2002
 }, {
   "mobil": "Ford",
-  "tahun": 2005
+  "tahun": 2002
+}, {
+  "mobil": "Chrysler",
+  "tahun": 1995
+}, {
+  "mobil": "Plymouth",
+  "tahun": 1989
+}, {
+  "mobil": "Mercedes-Benz",
+  "tahun": 1992
 }, {
   "mobil": "Kia",
   "tahun": 2011
 }, {
-  "mobil": "Plymouth",
-  "tahun": 1992
-}, {
-  "mobil": "Lexus",
-  "tahun": 1997
-}, {
-  "mobil": "Dodge",
-  "tahun": 1994
-}, {
-  "mobil": "Ford",
-  "tahun": 2002
-}, {
-  "mobil": "Aston Martin",
-  "tahun": 2009
-}, {
-  "mobil": "Chevrolet",
-  "tahun": 1996
-}, {
-  "mobil": "Subaru",
-  "tahun": 1987
-}, {
-  "mobil": "Lotus",
-  "tahun": 2011
-}, {
-  "mobil": "Acura",
-  "tahun": 1988
-}, {
-  "mobil": "Mitsubishi",
-  "tahun": 1992
-}, {
-  "mobil": "Volvo",
-  "tahun": 2006
-}, {
-  "mobil": "Jeep",
-  "tahun": 2002
-}, {
-  "mobil": "Chevrolet",
+  "mobil": "Toyota",
   "tahun": 2004
 }, {
-  "mobil": "Ford",
-  "tahun": 2010
-}, {
-  "mobil": "Subaru",
-  "tahun": 1986
-}, {
   "mobil": "GMC",
-  "tahun": 2006
+  "tahun": 2007
 }, {
-  "mobil": "Buick",
-  "tahun": 1996
+  "mobil": "Mercedes-Benz",
+  "tahun": 1984
 }, {
-  "mobil": "BMW",
-  "tahun": 2000
+  "mobil": "Mitsubishi",
+  "tahun": 1987
+}, {
+  "mobil": "Honda",
+  "tahun": 2009
+}, {
+  "mobil": "Cadillac",
+  "tahun": 2002
+}, {
+  "mobil": "Infiniti",
+  "tahun": 2008
+}, {
+  "mobil": "Chevrolet",
+  "tahun": 1999
+}, {
+  "mobil": "Mercedes-Benz",
+  "tahun": 2001
+}, {
+  "mobil": "Oldsmobile",
+  "tahun": 1998
+}, {
+  "mobil": "Kia",
+  "tahun": 2010
 }]
 }
