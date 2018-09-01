@@ -1,74 +1,34 @@
 {
 "contoh":
 [{
-  "id": 1,
-  "first_name": "Blinni",
-  "last_name": "Mulqueen",
-  "email": "bmulqueen0@state.tx.us",
-  "gender": "Female",
-  "ip_address": "174.85.40.163"
+  "mobil": "Oldsmobile",
+  "tahun": 1994
 }, {
-  "id": 2,
-  "first_name": "Hamilton",
-  "last_name": "Molloy",
-  "email": "hmolloy1@nytimes.com",
-  "gender": "Male",
-  "ip_address": "61.119.159.12"
+  "mobil": "Ford",
+  "tahun": 2006
 }, {
-  "id": 3,
-  "first_name": "Hank",
-  "last_name": "Spain",
-  "email": "hspain2@ucla.edu",
-  "gender": "Male",
-  "ip_address": "82.204.123.217"
+  "mobil": "Cadillac",
+  "tahun": 2009
 }, {
-  "id": 4,
-  "first_name": "Blair",
-  "last_name": "Denford",
-  "email": "bdenford3@rambler.ru",
-  "gender": "Male",
-  "ip_address": "116.57.70.43"
+  "mobil": "Nissan",
+  "tahun": 2000
 }, {
-  "id": 5,
-  "first_name": "Gerald",
-  "last_name": "Whipple",
-  "email": "gwhipple4@fastcompany.com",
-  "gender": "Male",
-  "ip_address": "165.61.28.213"
+  "mobil": "Volkswagen",
+  "tahun": 2002
 }, {
-  "id": 6,
-  "first_name": "Cati",
-  "last_name": "Scurrey",
-  "email": "cscurrey5@cdc.gov",
-  "gender": "Female",
-  "ip_address": "142.34.166.129"
+  "mobil": "Suzuki",
+  "tahun": 2004
 }, {
-  "id": 7,
-  "first_name": "Margareta",
-  "last_name": "Todman",
-  "email": "mtodman6@businesswire.com",
-  "gender": "Female",
-  "ip_address": "248.189.172.120"
+  "mobil": "Audi",
+  "tahun": 2008
 }, {
-  "id": 8,
-  "first_name": "Sheela",
-  "last_name": "Braffington",
-  "email": "sbraffington7@eventbrite.com",
-  "gender": "Female",
-  "ip_address": "31.77.160.12"
+  "mobil": "BMW",
+  "tahun": 2010
 }, {
-  "id": 9,
-  "first_name": "Kat",
-  "last_name": "Norrie",
-  "email": "knorrie8@parallels.com",
-  "gender": "Female",
-  "ip_address": "146.173.72.247"
+  "mobil": "Alfa Romeo",
+  "tahun": 1992
 }, {
-  "id": 10,
-  "first_name": "Wit",
-  "last_name": "De Lasci",
-  "email": "wdelasci9@sogou.com",
-  "gender": "Male",
-  "ip_address": "212.87.154.220"
+  "mobil": "BMW",
+  "tahun": 1989
 }]
 }
