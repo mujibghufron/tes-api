@@ -1,0 +1,74 @@
+{
+"contoh":
+[{
+  "id": 1,
+  "first_name": "Blinni",
+  "last_name": "Mulqueen",
+  "email": "bmulqueen0@state.tx.us",
+  "gender": "Female",
+  "ip_address": "174.85.40.163"
+}, {
+  "id": 2,
+  "first_name": "Hamilton",
+  "last_name": "Molloy",
+  "email": "hmolloy1@nytimes.com",
+  "gender": "Male",
+  "ip_address": "61.119.159.12"
+}, {
+  "id": 3,
+  "first_name": "Hank",
+  "last_name": "Spain",
+  "email": "hspain2@ucla.edu",
+  "gender": "Male",
+  "ip_address": "82.204.123.217"
+}, {
+  "id": 4,
+  "first_name": "Blair",
+  "last_name": "Denford",
+  "email": "bdenford3@rambler.ru",
+  "gender": "Male",
+  "ip_address": "116.57.70.43"
+}, {
+  "id": 5,
+  "first_name": "Gerald",
+  "last_name": "Whipple",
+  "email": "gwhipple4@fastcompany.com",
+  "gender": "Male",
+  "ip_address": "165.61.28.213"
+}, {
+  "id": 6,
+  "first_name": "Cati",
+  "last_name": "Scurrey",
+  "email": "cscurrey5@cdc.gov",
+  "gender": "Female",
+  "ip_address": "142.34.166.129"
+}, {
+  "id": 7,
+  "first_name": "Margareta",
+  "last_name": "Todman",
+  "email": "mtodman6@businesswire.com",
+  "gender": "Female",
+  "ip_address": "248.189.172.120"
+}, {
+  "id": 8,
+  "first_name": "Sheela",
+  "last_name": "Braffington",
+  "email": "sbraffington7@eventbrite.com",
+  "gender": "Female",
+  "ip_address": "31.77.160.12"
+}, {
+  "id": 9,
+  "first_name": "Kat",
+  "last_name": "Norrie",
+  "email": "knorrie8@parallels.com",
+  "gender": "Female",
+  "ip_address": "146.173.72.247"
+}, {
+  "id": 10,
+  "first_name": "Wit",
+  "last_name": "De Lasci",
+  "email": "wdelasci9@sogou.com",
+  "gender": "Male",
+  "ip_address": "212.87.154.220"
+}]
+}
