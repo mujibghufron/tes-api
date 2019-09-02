@@ -1,5 +1,7 @@
 {"1":
  {"id":162034760,"name":"SOMRAK","group":"","date":1567233454,"type":"","game":"THBAA","bank_acc_name":"สมรักษ โนอาห์ แดเนียล","bank_name":"KASIKORN","bank_acc_number":"7832087623","chips":2200,"rupiah":2200,"balance":0,"curr":"THB"},
  "2":
- {"id":162034860,"name":"TEDDYMIN","group":"","date":1567233488,"type":"","game":"AVDAA","bank_acc_name":"Nguyễn Đặng Dương","bank_name":"Techcombank","bank_acc_number":"19034569570010","chips":1500000,"rupiah":1500000,"balance":0,"curr":"VND"}
+ {"id":162034860,"name":"TEDDYMIN","group":"","date":1567233488,"type":"","game":"AVDAA","bank_acc_name":"Nguyễn Đặng Dương","bank_name":"Techcombank","bank_acc_number":"19034569570010","chips":1500000,"rupiah":1500000,"balance":0,"curr":"VND"},
+ "3":
+ {"id":162034860,"name":"TEDDYMIN","group":"","date":1567233488,"type":"","game":"AVDAA","bank_acc_name":"Hoa\u00cc\u20acng Trung Th\u00c3\u00b4ng","bank_name":"Techcombank","bank_acc_number":"19034569570010","chips":1500000,"rupiah":1500000,"balance":0,"curr":"VND"}
 }
